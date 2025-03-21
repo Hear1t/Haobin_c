@@ -18,5 +18,6 @@ int main(){
 	else{
 		printf("x1,x2无解");
 		}
+	system("pause");
 	return 0;
 }
